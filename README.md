@@ -10,14 +10,19 @@ Change directory to the location:
 cd Snake_Game
 ```
 
-** Make sure that you are in Snake_Game folder 
-
-<b>(if you want use `pwd` in the terminal)</b>
-
+Create a virtual environment:
+``` 
+python3 -m venv env
+```
 
 Start the virtual environment:
 ```
-source berkan/bin/activate
+source env/bin/activate
+```
+
+Install the pygame package:
+```
+pip install pygame
 ```
 
 Start the Snacke Game:
