@@ -1,4 +1,4 @@
-# Snake_Game
+# Snake Game
 
 Clone repository in your machine:
 ```
