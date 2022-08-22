@@ -19,6 +19,10 @@ Start the virtual environment:
 ```
 source env/bin/activate
 ```
+Install PIP:
+```
+python3 -m pip install --upgrade pip
+```
 
 Install the pygame package:
 ```
@@ -27,6 +31,6 @@ pip install pygame
 
 Start the Snacke Game:
 ```
-python manage.py runserver
+python main.py runserver
 ```
 
