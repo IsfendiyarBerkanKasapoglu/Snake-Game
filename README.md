@@ -24,9 +24,9 @@ Install PIP:
 python3 -m pip install --upgrade pip
 ```
 
-Install the pygame package:
+Install all requirement imports using requirements.txt
 ```
-pip install pygame
+pip3 install -r requirements.txt 
 ```
 
 Start the Snacke Game:
