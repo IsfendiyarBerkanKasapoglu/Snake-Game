@@ -1,1 +1,2 @@
-pygame 2.1.2 (SDL 2.0.16, Python 3.8.12)
+pygame==2.1.2
+
